@@ -6,4 +6,4 @@ Example, [2, 4, 7] and [7, 5, 1] will return true While [0, 2] and [6,7,8] will 
 
 There are two seperate solution, the first being the Brute approach in the brute approach file
 
-Second approach, in BRT file should solve the same problem, but with better run time evaluation
+Second approach, in better.java file should solve the same problem, but with better run time evaluation
